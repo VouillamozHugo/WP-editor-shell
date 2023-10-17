@@ -65,7 +65,6 @@ def check_host():
                 print(get_current_time(), red + "Opps ! Page not found !",e )
                 quit()
 
-
 # Function to send a post request to wordpress dashboard and get Cookies values that need to be used later to update 404 page
 def log_into_wordpress_application():
         global cookies 
