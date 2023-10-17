@@ -2,7 +2,7 @@
 Python script to automaticly get a reverse shell from WP theme editor page 
 
 ## Description
-This script was created to simplify the creation of a reverse shell from a wordpress dashboard editor page. It allow the user to update the page 404 of a theme and replace the content with `<?php system($_GET["cmd"]);?>` which then allow command execution on the page. 
+This script was created to simplify the creation of a reverse shell from a Wordpress dashboard editor page. It allows the user to update the page 404 of a theme and replace the content with `<?php system($_GET["cmd"]);?>` which then allow command execution on the page. 
 
 ## Usage 
 Usage to upload the PHP payload and gain RCE on the site 
