@@ -35,4 +35,4 @@ python wp-editor-shell.py --url http://127.0.0.1/wordpress -u admin -p admin --l
 ```
 ## Disclaimer 
 
-This script was created only for educationnal purpose. 
+This script is meant for educational purposes only. Please use it responsibly and ensure you have proper authorization when performing security assessments. It's important to respect ethical guidelines and legality in your actions.
